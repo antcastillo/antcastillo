@@ -27,12 +27,6 @@
 
 ---
 
-### Current projects
-
-* **Local AI Orchestration:** Exploring and implementing local LLM deployments to automate repetitive data tasks safely.
-
----
-
 ### How I think
 
 * **Iteration is the goal:** Better to build, measure, and refine than to wait for "perfect."
