@@ -33,9 +33,3 @@
 * **Simplicity over complexity:** Data systems should be as simple as possible, but no simpler.
 * **Automate the mundane:** If a task is repeated three times, it belongs in a script.
 * **Engineering discipline:** Applying software best practices (CI/CD, testing, code review) to the data world.
-
----
-
-### Connect
-
-* **LinkedIn:** [linkedin.com/in/anthonycastillo4](https://linkedin.com/in/anthonycastillo4)
