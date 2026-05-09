@@ -1,5 +1,3 @@
-# Anthony Castillo
-
 **Data and Software Engineer** focused on scalable data architectures, AI-augmented workflows, and system optimization. Builder of pragmatic data pipelines and modern web applications.
 
 ---
